@@ -1,0 +1,1 @@
+This is qostaqoda's first git project! :)
